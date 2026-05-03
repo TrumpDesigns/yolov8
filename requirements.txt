@@ -1,0 +1,8 @@
+ultralytics
+roboflow
+opencv-python
+pandas
+matplotlib
+tabulate
+Pillow
+pyyaml
