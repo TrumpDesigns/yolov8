@@ -42,9 +42,9 @@ Traditional weed management relies on uniform herbicide application across entir
 
 The model outperformed existing benchmark models on both precision and recall across all 15 weed classes.
 
-![Results](results/results.png)
-![PR Curve](results/PR_curve.png)
-![Confusion Matrix](results/confusion_matrix_normalized.png)
+![Results](https://raw.githubusercontent.com/TrumpDesigns/yolov8/main/results/results.png)
+![PR Curve](https://raw.githubusercontent.com/TrumpDesigns/yolov8/main/results/PR_curve.png)
+![Confusion Matrix](https://raw.githubusercontent.com/TrumpDesigns/yolov8/main/results/confusion_matrix_normalized.png)
 
 ---
 
